@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person>
+	<employee>
+		<name>Hasinur Rahman</name>
+		<skill>JAVA, PHP</skill>
+		<company>IDB BISEW</company>
+	</employee>
+
+
+	<employee>
+		<name>Sazzad Hossain</name>
+		<skill>PHP</skill>
+		<company>students</company>
+	</employee>
+
+</person>
+
